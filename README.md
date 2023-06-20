@@ -55,9 +55,9 @@ Sou desenvolvedor de software, apaixonado por tecnologia, desenvolvimento e marc
 
 <div align="justify">
 <p>
-- :mortar_board: &nbsp; Sou um novo programador formado em JavaScript na <a href="https://www.betrybe.com/"         target="_blank">Trybe</a>, 
-- :octocat:&nbsp; Tenho uma gata chamada Maju.<br />
-- :soccer:&nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
+- :mortar_board: &nbsp; Sou um novo programador formado em JavaScript na <a href="https://www.betrybe.com/"target="_blank">Trybe</a>. <br /> 
+- :octocat:&nbsp; Tenho dois gatos um chamado Fred e outro chamada Chica.<br />
+- :soccer:&nbsp; Sou Corinthiano, torço para o <a href="https://www.corinthians.com.br/" target="_blank">Timão</a>.<br />
 - :skateboard: &nbsp; Meus hobbies são <a href="https://www.fortnite.com/?lang=pt-BR" target="_blank">Fortnite</a>, <a href="https://www.rockstargames.com/br/gta-v" target="_blank">GTAV</a>, <a href="https://www.saobernardo.sp.gov.br/web/cultura/parque-da-juventude-citta-di-marostica" target="_blank">Skate</a>, Teclado/Piano e Academia.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:mateus.some.ms@gmail.com" target="_blank">e-mail</a> pessoal.<br />
